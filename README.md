@@ -1,5 +1,6 @@
-# Machine-Learning-Project
+# Machine-Learning-Projects
 Credit Card Fraud Detected with the help of various Machine Learning Algorithm.
+Telecom_chrun Project
 
 ![image](https://user-images.githubusercontent.com/96537904/158742107-f723105a-81ab-480b-b201-9d2e721098d9.png)
 
