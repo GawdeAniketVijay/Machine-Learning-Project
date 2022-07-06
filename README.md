@@ -8,3 +8,4 @@ The aim of this project is to predict whether a credit card transaction is fraud
 data. It aims to track down credit card transaction data, which is done by detecting anomalies in the transaction data.
 The most commonly techniques used fraud detection methods are Naïve Bayes (NB), Support Vector Machines (SVM), K-Nearest Neighbor algorithms (KNN). 
 These techniques can be used alone or in collaboration using ensemble or meta-learning techniques to build classifiers.
+
